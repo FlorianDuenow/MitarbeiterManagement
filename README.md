@@ -1,4 +1,3 @@
-# vuetest3
 
 ## Project setup
 ```
